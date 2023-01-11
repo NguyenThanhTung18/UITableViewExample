@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         tableView.tableFooterView = .none
         // chinh padding 4 goc cua tablerView
         //tableView.contentInset = .init(top: 16, left: 16, bottom: 32, right: 16)
+        print("Tungggg")
     }
 }
 
